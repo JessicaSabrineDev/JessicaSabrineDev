@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou a Jéssica Sabrine 👋
 
-<!--
-**JessicaSabrineDev/jessicaSabrineDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Full Stack em formação  
+📚 Estudando JavaScript, Node.js, React, Next.js e MySQL  
+🚀 Em busca de uma oportunidade de estágio na área de desenvolvimento  
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
+- JavaScript
+- Node.js
+- React
+- Next.js
+- MySQL
+- HTML
+- CSS
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivo
+Conseguir uma oportunidade de estágio como desenvolvedora e evoluir para Full Stack.
+
+## Contato
+- GitHub: https://github.com/jessicaSabrineDev
