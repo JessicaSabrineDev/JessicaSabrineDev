@@ -13,6 +13,8 @@
 - HTML
 - CSS
 - Git e GitHub
+- Ionic
+- Angular
 
 ## Objetivo
 Conseguir uma oportunidade de estágio como desenvolvedora e evoluir para Full Stack.
