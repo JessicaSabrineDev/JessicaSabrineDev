@@ -1,7 +1,7 @@
 # Olá, eu sou a Jéssica Sabrine 👋
 
 💻 Desenvolvedora Full Stack em formação  
-📚 Estudando JavaScript, Node.js, React, Next.js e MySQL  
+📚 Estudando JavaScript, Node.js, React, Next.js, Angular, Ionic e MySQL  
 🚀 Em busca de uma oportunidade de estágio na área de desenvolvimento  
 
 ## Tecnologias que estou estudando
@@ -21,3 +21,4 @@ Conseguir uma oportunidade de estágio como desenvolvedora e evoluir para Full S
 
 ## Contato
 - GitHub: https://github.com/jessicaSabrineDev
+- Email: jessicasabrine@edu.uniube.br
